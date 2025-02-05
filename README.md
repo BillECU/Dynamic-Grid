@@ -14,7 +14,14 @@ This project is a simple React application that creates a dynamic grid (table) w
 
 ## Screenshots
 
+<b>Web view</b>
+<br />
 ![Web View](src/img/webView.jpg)
+
+ <br />
+
+<b>Mobile View</b>
+<br />
 ![Mobile View](src/img/mobileView.jpg)
 
 ## Installation
