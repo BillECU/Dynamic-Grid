@@ -1,5 +1,3 @@
-# Dynamic-Grid
-
 # Dynamic Grid React App
 
 This project is a simple React application that creates a dynamic grid (table) where users can:
@@ -13,6 +11,18 @@ This project is a simple React application that creates a dynamic grid (table) w
 
 - React
 - CSS
+
+## Screenshots
+
+<b>Web view</b>
+<br />
+![Web View](src/img/webView.jpg)
+
+ <br />
+
+<b>Mobile View</b>
+<br />
+![Mobile View](src/img/mobileView.jpg)
 
 ## Installation
 
