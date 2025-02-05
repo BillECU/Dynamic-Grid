@@ -116,7 +116,7 @@ function DynamicGrid() {
         <div className="container">
           <div id="selected-cell">
             {selectedCell
-              ? `Selected coordinate ${selectedCell.col}, ${selectedCell.row}`
+              ? `Selected coordinates (${selectedCell.col}, ${selectedCell.row})`
               : "No cell selected"}
           </div>
           <div id="total-cell">Total cells selected: {totalSelectedCells}</div>
